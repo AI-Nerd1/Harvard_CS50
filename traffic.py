@@ -1,3 +1,5 @@
+# Experienced difficulties installing TensorFlow
+# Spent over 24hrs configuring tf
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
