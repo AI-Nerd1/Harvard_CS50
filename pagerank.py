@@ -152,5 +152,3 @@ def iterate_pagerank(corpus, damping_factor):
 
 if __name__ == "__main__":
     main()
-
-{"mode": "full", "isActive": false}
